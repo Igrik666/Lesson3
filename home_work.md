@@ -1,6 +1,7 @@
 # **Введение в контроль версий (семинары).**
 ## *Практическое задание.*
 ### Список комманд для работы с репозиториями:
-1. *git config --global user.name* и *git config --global user.email* - установка своего имени и e-mail адреса
-2. 
+1. *git config --global user.name* и *git config --global user.email* - установка своего имени и e-mail адреса;
+2. *git init* - Инициализация нового репозитория;
+3. 
 
